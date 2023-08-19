@@ -5,13 +5,5 @@ Penambahan Feature A
 -penambahan fitur 3
 -penambahan fitur 4
 
-Project penambahan Feature A sudah diambil ahli 
--Penambahan fitur 5
--Penambahan fitur 6
--Penambahan fitur 7
--Penambahan fitur 8
 
-Update Project Feature A
--Penambahan fitur 9
--Penambahan fitur 10
 
