@@ -11,3 +11,4 @@ Penambahan Feature B
 -Penambahan fitur 9
 -Penambahan fitur 10
 
+Update Baru 2.0
