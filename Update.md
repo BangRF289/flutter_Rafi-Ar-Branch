@@ -1,4 +1,6 @@
 #Update
 
 penambahan update
-UPDATE a DAN b
+
+Feature A dan B selesai
+
