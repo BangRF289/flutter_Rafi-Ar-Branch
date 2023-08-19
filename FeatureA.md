@@ -7,6 +7,9 @@ Penambahan Feature A
 -penambahan fitur 5
 -penambahan fitur 6
 -penambahan fitur 7
+-penambahan fitur 8
+-penambahan fitur 9
+-penambahan fitur 10
 
 
 
