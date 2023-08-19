@@ -28,10 +28,10 @@ Update baru 2.1
 -Penambahan fitur 22
 -Penambahan fitur 23
 -Penambahan fitur 24
--Penambahan fitur 25
+
 -Penambahan fitur 26
 -Penambahan fitur 27
--Penambahan fitur 28
+
 -Penambahan fitur 29
 -Penambahan fitur 30
 
