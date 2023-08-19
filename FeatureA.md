@@ -17,7 +17,6 @@ Update baru 2.0
 -Penambahan fitur 13
 -Penambahan fitur 14
 -Penambahan fitur 15
-
 -Penambahan fitur 16
 -Penambahan fitur 17
 -Penambahan fitur 18
