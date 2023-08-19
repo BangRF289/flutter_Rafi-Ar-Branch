@@ -1,4 +1,5 @@
 # Ini Feature A
+Penambahan Feature A
 -penambahan fitur 1
 -penambahan fitur 2
 -penambahan fitur 3
@@ -9,4 +10,8 @@ Project penambahan Feature A sudah diambil ahli
 -Penambahan fitur 6
 -Penambahan fitur 7
 -Penambahan fitur 8
+
+Update Project Feature A
+-Penambahan fitur 9
+-Penambahan fitur 10
 
