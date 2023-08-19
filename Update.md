@@ -10,3 +10,4 @@ Update A selesai
 Update B selesai
 
 Update A dan B selesai
+done
